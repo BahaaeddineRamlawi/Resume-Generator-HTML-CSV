@@ -44,7 +44,7 @@ This project allows you to automatically generate a structured, stylish HTML res
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/Resume-Generator-HTML-CSV.git
+git clone https://github.com/BahaaeddineRamlawi/Resume-Generator-HTML-CSV.git
 cd Resume-Generator-HTML-CSV
 ```
 
